@@ -1,0 +1,21 @@
+.register-box{
+    margin: 10px auto;
+    min-height: 400px;
+    width: 400px;
+    border: 1px solid grey;
+}
+.register-input{
+    width: 250px;
+    border-bottom: 1px solid grey;
+    margin: 5px 0;
+    border-top: none;
+    border-left: none;
+    border-right: 1px solid grey;
+}
+.register-submit{
+    padding: 10px;
+    background-color: green;
+    font-size: 120%;
+    cursor: pointer;
+    border-radius: 8px;
+}

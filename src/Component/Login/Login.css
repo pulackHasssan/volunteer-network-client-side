@@ -1,0 +1,16 @@
+.log-in-style{
+    text-align: center;
+}
+.log-in-box{
+    margin: 10px auto;
+    width: 400px;
+    height: 300px;
+    border: 1px solid grey;
+    
+}
+.log-in-box button{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}

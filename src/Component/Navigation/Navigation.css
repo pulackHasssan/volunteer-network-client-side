@@ -1,0 +1,19 @@
+.nav{
+    height: 50px;
+    margin-bottom: 30px;
+}
+.nav ul li{
+    text-decoration: none;
+    list-style-type: none;
+    float: left;
+    padding: 10px;
+}
+.logo{
+  margin-right: 30%;
+}
+.logo img{
+    width: 150px;
+}
+strong{
+    color: blue;
+}
